@@ -72,7 +72,7 @@ ClassGenCCAutoRoomEnabled=1
 ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
-DocumentUniqueId=ENUVLWHJ
+DocumentUniqueId=MIIQRCDC
 
 [Document3]
 DocumentPath=ciclo_lib.SchLib
@@ -106,7 +106,7 @@ ClassGenCCAutoRoomEnabled=1
 ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
-DocumentUniqueId=YATBAKYO
+DocumentUniqueId=SFSUDUSO
 
 [Document5]
 DocumentPath=..\..\..\..\Robo_Hospital\d_hospital_electronic_modules\Libraries\Conectores_Ftp.PcbLib
@@ -157,7 +157,7 @@ ClassGenCCAutoRoomEnabled=1
 ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
-DocumentUniqueId=
+DocumentUniqueId=VGHPJJCD
 
 [Document8]
 DocumentPath=..\..\..\..\Robo_Hospital\d_hospital_electronic_modules\Libraries\RoboHospitalar.SchLib
@@ -191,7 +191,11 @@ ClassGenCCAutoRoomEnabled=1
 ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
-DocumentUniqueId=
+DocumentUniqueId=FPMNPLIE
+
+[GeneratedDocument1]
+DocumentPath=Project Outputs for ciclo_V1\Design Rule Check - ciclo_V1.html
+DItemRevisionGUID=
 
 [Configuration1]
 Name=Sources
