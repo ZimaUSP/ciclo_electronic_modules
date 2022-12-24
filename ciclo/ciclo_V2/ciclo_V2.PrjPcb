@@ -55,7 +55,7 @@ ClassGenCCAutoRoomEnabled=1
 ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
-DocumentUniqueId=
+DocumentUniqueId=MIIQRCDC
 
 [Document2]
 DocumentPath=ciclo_V2.SchDoc
@@ -107,6 +107,10 @@ ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=PKBDTDGS
+
+[GeneratedDocument1]
+DocumentPath=Project Outputs for ciclo_V2\Design Rule Check - ciclo_V2.html
+DItemRevisionGUID=
 
 [Configuration1]
 Name=Sources
